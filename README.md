@@ -16,15 +16,3 @@ Herta GIF and art made by | 黑塔 GIF 绘画者 : [@Seseren_kr](https://twitter
 The art the relevant copyright of Honkai: Star Rail belongs to miHoYo/HoYoverse.
 
 角色版权归米哈游所有。
-***
-
-## Credits
-### Contributers | 贡献者
-
-<a href="https://github.com/duiqt/herta_kuru/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=duiqt/herta_kuru" />
-</a>
-
-### Original Inspration
-
-Thanks KawaiiShadowii and his website [tannhauser.moe](https://tannhauser.moe), where our inspirations and the super-original code from. ([#44](https://github.com/duiqt/herta_kuru/issues/44))
